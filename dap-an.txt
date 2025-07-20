@@ -1,0 +1,3 @@
+2. 
+Lệnh để kiểm tra trạng thái repository: git status 
+Lệnh để xem lịch sử commit đầy đủ: git log
